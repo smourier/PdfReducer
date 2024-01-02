@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 #endif
 [assembly: AssemblyCompany("Simon Mourier")]
 [assembly: AssemblyProduct("PdfReducer")]
-[assembly: AssemblyCopyright("Copyright (C) 2021-2023 Simon Mourier. All rights reserved.")]
+[assembly: AssemblyCopyright("Copyright (C) 2021-2024 Simon Mourier. All rights reserved.")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
 [assembly: Guid("1a079e74-7ca8-431b-9b19-81b6bbe1b6a4")]
